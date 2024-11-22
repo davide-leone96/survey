@@ -1,0 +1,32 @@
+
+.below-nav{
+  padding-top: 5em;
+}
+
+.login-form{
+  margin-top: 5em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  max-width: 50%;
+  height:75%;
+}
+
+.fixed-right-bottom {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  margin: 0 1.5rem 1.5rem 0;
+}
+
+.button-shape {
+  z-index: 1030;
+  border-radius: 50%;
+}
+
+.login-form{
+  margin-top: 5em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  max-width: 50%;
+  height:75%;
+}
